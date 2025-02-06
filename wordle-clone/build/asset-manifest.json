@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WORDLE-CLONEE/static/css/main.98aa2b9a.css",
+    "main.js": "/WORDLE-CLONEE/static/js/main.d1869302.js",
+    "static/js/373.5612eb19.chunk.js": "/WORDLE-CLONEE/static/js/373.5612eb19.chunk.js",
+    "index.html": "/WORDLE-CLONEE/index.html",
+    "main.98aa2b9a.css.map": "/WORDLE-CLONEE/static/css/main.98aa2b9a.css.map",
+    "main.d1869302.js.map": "/WORDLE-CLONEE/static/js/main.d1869302.js.map",
+    "373.5612eb19.chunk.js.map": "/WORDLE-CLONEE/static/js/373.5612eb19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98aa2b9a.css",
+    "static/js/main.d1869302.js"
+  ]
+}
